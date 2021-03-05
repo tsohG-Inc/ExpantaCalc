@@ -1,4 +1,4 @@
-var expantaCalc = {
+var ExpantaCalc = {
   successor: function(integer) {
     var tempInt = integer;
     var i = 0;
